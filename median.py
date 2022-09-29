@@ -10,8 +10,6 @@ while True:
     else:
         break
 
-
-
 numbers.sort()
 
 lower_position = int(len(numbers)/2) - 1
